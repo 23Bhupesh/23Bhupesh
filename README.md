@@ -29,6 +29,7 @@
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=23bhupesh&show_icons=true&locale=en" alt="23bhupesh" /></p>
+<br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=23bhupesh&show_icons=true&locale=en&layout=compact" alt="23bhupesh" /></p>
 </div>
 <br/><br /><br />
