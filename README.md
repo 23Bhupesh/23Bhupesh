@@ -20,7 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -28,11 +27,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=23bhupesh&show_icons=true&locale=en&layout=compact" alt="23bhupesh" /></p>
-</div>
-
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=23bhupesh&show_icons=true&locale=en" alt="23bhupesh" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=23bhupesh&show_icons=true&locale=en&layout=compact" alt="23bhupesh" /></p>
+</div>
+<br/><br /><br />
+<div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=23bhupesh&" alt="23bhupesh" /></p>
 </div>
+
