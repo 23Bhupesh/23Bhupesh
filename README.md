@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23bhupesh&label=Profile%20views&color=0e75b6&style=flat" alt="23bhupesh" /> </p>
 
 # 💫 About Me:
-🎓I'm a Student and Developer.<br>💻I'm currently working on Web Development.<br>📫Reach me at: bhupeshsahu2312@gmail.com<br>👨‍💻 All of my projects are available at: <br>https://github.com/23Bhupesh?tab=repositories<br>⚡fun fact: I'm doing Struggle😅 <br>
+🎓I'm a Student and Developer.<br>💻I'm currently working on Web Development.<br>📫Reach me at: bhupeshsahu2312@gmail.com<br>👨‍💻 All of my projects are available at: <br>https://github.com/23Bhupesh?tab=repositories<br>⚡fun fact: I'm doing Struggle😅 <br><br>
 
 
 # 🌐 Socials:
