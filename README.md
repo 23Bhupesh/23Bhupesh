@@ -1,6 +1,6 @@
 ![logo](https://github.com/23Bhupesh/23Bhupesh/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Bhupesh Sahu</h1>
-<h3 align="center">A passionate frontend Web Developer</h3>
+<h3 align="center">A Passionate Frontend Web Developer</h3>
 
 <img align="right" width="400" alt="coding" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
