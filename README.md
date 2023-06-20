@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/bhupesh-sahu-70a33a22b/"><p>
-![logo](https://github.com/23Bhupesh/23Bhupesh/blob/main/banner.png)
+<a href="https://www.linkedin.com/in/bhupesh-sahu-70a33a22b/"><p><img src="https://github.com/23Bhupesh/23Bhupesh/blob/main/banner.png" alt="Banner">
+![logo]()
 </p></a>
 
 <h1 align="center">Hi 👋, I'm Bhupesh Sahu</h1>
