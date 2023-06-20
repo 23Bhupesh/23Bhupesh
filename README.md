@@ -1,6 +1,5 @@
-<a href="https://www.linkedin.com/in/bhupesh-sahu-70a33a22b/"><p><img src="https://github.com/23Bhupesh/23Bhupesh/blob/main/banner.png" alt="Banner">
-![logo]()
-</p></a>
+<p><a href="https://www.linkedin.com/in/bhupesh-sahu-70a33a22b/"><img src="https://github.com/23Bhupesh/23Bhupesh/blob/main/banner.png" alt="Banner">
+</a></p>
 
 <h1 align="center">Hi 👋, I'm Bhupesh Sahu</h1>
 <h3 align="center">A Passionate Frontend Web Developer</h3>
