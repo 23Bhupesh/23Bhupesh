@@ -35,9 +35,9 @@
 
 <div><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=23Bhupesh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="23Bhupesh"></p></div>
 
-<div><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=23Bhupesh&theme=great-gatsby&hide_border=false" alt="23Bhupesh"></p></div>
+<div><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=23Bhupesh&theme=tokyonight&hide_border=false" alt="23Bhupesh"></p></div>
 
-<div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Bhupesh&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="23Bhupesh"></p></div>
+<div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Bhupesh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="23Bhupesh"></p></div>
 
 
 
