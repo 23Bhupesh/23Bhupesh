@@ -17,6 +17,7 @@
 <a href="https://codepen.io/Bhupeshsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhupeshsahu" height="30" width="40" /></a>
 <a href="https://twitter.com/BhupeshSahu23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhupeshsahu23" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhupesh-sahu-70a33a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh sahu" height="30" width="40" /></a>
+  <a href="https://fb.com/bhupesh sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhupesh sahu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jump_in_jaw_23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jump_in_jaw_23" height="30" width="40" /></a>
 </p><br>
 
