@@ -14,10 +14,11 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://codepen.io/Bhupeshsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhupeshsahu" height="30" width="40" /></a>
-<a href="https://twitter.com/BhupeshSahu23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhupeshsahu23" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhupesh-sahu-70a33a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh sahu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jump_in_jaw_23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jump_in_jaw_23" height="30" width="40" /></a>
+<a href="https://twitter.com/BhupeshSahu23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhupeshsahu23" height="30" width="40" /></a>
+<a href="https://codepen.io/Bhupeshsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhupeshsahu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100056696730283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhupesh sahu" height="30" width="40" /></a>
 </p><br>
 
 
@@ -32,11 +33,11 @@
 
 # 📊 GitHub Stats:
 
-<div><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=23Bhupesh&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="23Bhupesh"></p></div>
+<div><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=23Bhupesh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="23Bhupesh"></p></div>
 
-<div><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=23Bhupesh&theme=great-gatsby&hide_border=false" alt="23Bhupesh"></p></div>
+<div><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=23Bhupesh&theme=tokyonight&hide_border=false" alt="23Bhupesh"></p></div>
 
-<div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Bhupesh&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="23Bhupesh"></p></div>
+<div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Bhupesh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="23Bhupesh"></p></div>
 
 
 
