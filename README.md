@@ -39,7 +39,16 @@
 
 <div><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Bhupesh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="23Bhupesh"></p></div>
 
+# ✍️ Random Dev Quote
 
+<div><p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight&hide_border=false"></p></div>
+
+
+# 🔝 Top Contributed Repo
+
+<div><p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=23Bhupesh&limit=5&theme=tokyonight&hide_border=false&combine_all_yearly_contributions=true"></p></div>
 
 ---
 
