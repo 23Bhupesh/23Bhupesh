@@ -46,12 +46,12 @@
 
 # 📈 Github Activity Graph
 
-<div><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=23Bhupesh&bg_color=000000&color=9745f5&line=9745f5&point=8318b6&area=true&hide_border=true" /></p></div>
+<div><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=23Bhupesh&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false" /></p></div>
 
 # 🔝 Top Contributed Repo
 
 <div><p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=23Bhupesh&limit=5&theme=tokyonight&hide_border=false&combine_all_yearly_contributions=true"></p></div>
+<img src="https://github-contributor-stats.vercel.app/api?username=23Bhupesh&limit=4&theme=tokyonight&hide_border=false&combine_all_yearly_contributions=true"></p></div>
 
 ---
 
