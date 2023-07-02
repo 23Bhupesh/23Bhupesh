@@ -44,6 +44,9 @@
 <div><p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight&hide_border=false"></p></div>
 
+# 📈 Github Activity Graph
+
+<div><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=23Bhupesh&bg_color=000000&color=9745f5&line=9745f5&point=8318b6&area=true&hide_border=true" /></p></div>
 
 # 🔝 Top Contributed Repo
 
